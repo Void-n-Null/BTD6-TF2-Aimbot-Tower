@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>SniperAimbot</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>SniperAimbot</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="NuclearPowered.AssemblyUnhollower" Version="0.4.15" />
+      <PackageReference Include="System.Windows.Extensions" Version="7.0.0" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Bundles\" />
+    </ItemGroup>
+
+    <Import Project="..\btd6.targets" />
+</Project>
