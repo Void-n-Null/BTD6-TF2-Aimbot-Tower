@@ -7,7 +7,7 @@ public static class ModHelperData
     public const string Version = "1.0.0";
     public const string RepoName = "BTD6-TF2-Aimbot-Tower";
     public const string RepoOwner = "Void-n-Null";
-    public const string DllName = "BananaFarmer.dll";
+    public const string DllName = "TF2AimbotSniper.dll";
     public const string Author = "Void & Null";
     public const string WorksOnVersion = "34.3";
 }
