@@ -5,6 +5,8 @@
 
 <h1 align="center">Team Fortress 2 Aimbot Tower</h1>
 
+![DisplayGif](https://github.com/Void-n-Null/BTD6-TF2-Aimbot-Tower/blob/main/ezgif-4-24d121a178.gif)
+
 This is a joke tower inspired by Team Fortress 2 Bots
 
 <h1> Warning </h1>
